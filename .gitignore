@@ -130,3 +130,7 @@ dmypy.json
 
 .idea/
 *.tmp
+
+extracted/*
+downloads/*
+code/mei_vendas*
